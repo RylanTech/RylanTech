@@ -1,0 +1,15 @@
+- 👋 Hello there! I’m @RylanTech
+- 
+- 👀 I’m interested in:
+- Computer Hardware | Computer Software | Operating systems | Cryptocurrency | HTML | CSS | Javascript 
+- 
+- Here are some other intrests outside of the development space:
+- Gaming | Star Wars | Lego
+- 
+- 🌱 I’m currently learning:
+- Javascipt | Web Development
+- 
+- 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/rylanworkman/
+- My Discord Server: https://discord.gg/hq5rG54hd8
+- Twitter: https://twitter.com/RylanTech
