@@ -1,7 +1,7 @@
 - 👋 Hello there! I’m @RylanTech
 - 
 - 👀 I’m interested in:
-- Computer Hardware | Computer Software | Operating systems | Cryptocurrency | HTML | CSS | Javascript 
+- Computer Hardware | Computer Software | Operating systems | Cryptocurrency | HTML | CSS | Javascript | Typescript | Bootstrap | React
 - 
 - Here are some other intrests outside of the development space:
 - Gaming | Star Wars | Lego
