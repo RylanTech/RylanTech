@@ -3,7 +3,7 @@
 - 👀 I’m interested in:
 - Computer Hardware | Computer Software | Operating systems | Cryptocurrency | HTML | CSS | Javascript | Typescript | Bootstrap | React
 - 
-- Here are some other intrests outside of the development space:
+- Here are some other intrests outside of the development/IT space:
 - Gaming | Star Wars | Lego
 - 
 - 🌱 I’m currently learning:
