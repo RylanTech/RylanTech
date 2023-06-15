@@ -7,7 +7,7 @@
 - Gaming | Star Wars | Lego
 - 
 - 🌱 I’m currently learning:
-- Javascipt | Web Development
+- Typescipt | Deployment
 - 
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/rylanworkman/
