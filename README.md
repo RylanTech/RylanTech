@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning:
 - Typescipt | Deployment
 - 
-- 📫 How to reach me:
+- 📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/rylanworkman/
-- My Discord Server: https://discord.gg/hq5rG54hd8
+- Youtube: https://www.youtube.com/@RylanTech
 - Twitter: https://twitter.com/RylanTech
