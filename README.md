@@ -1,6 +1,6 @@
-- 👋 Hello there! I’m @RylanTech
+# 👋 Hello there! I’m @RylanTech
 
-- 👀 My skillset:
+## 👀 My skillset:
 - Cybersecurity
 - Computer Hardware
 - C++
@@ -14,11 +14,11 @@
   - mySQL
   - mongoDB
 
-- 🌱 I’m currently:
+## 🌱 I’m currently learning:
 - C++
 - Linux Administration
 - Computer Networking
 
-- 📫 Socials:
+## 📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/rylanworkman/
 - Youtube: https://www.youtube.com/@RylanTech
