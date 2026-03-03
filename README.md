@@ -1,15 +1,24 @@
 - 👋 Hello there! I’m @RylanTech
-- 
-- 👀 I’m interested in:
-- Computer Hardware | Computer Software | Operating systems | Cryptocurrency | HTML | CSS | Javascript | Typescript | C++ | Bootstrap | React | Express.Js | mySQL | mongoDB
-- 
-- Here are some other intrests outside of the development/IT space:
-- Gaming | Star Wars | Lego
-- 
-- 🌱 I’m currently learning:
+
+- 👀 My skillset:
+- Cybersecurity
+- Computer Hardware
 - C++
-- 
+- Web:
+  - Javascript & Typescript
+  - HTML & CSS
+  - Bootstrap
+  - React
+  - Express.Js
+- Databases:
+  - mySQL
+  - mongoDB
+
+- 🌱 I’m currently:
+- C++
+- Linux Administration
+- Computer Networking
+
 - 📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/rylanworkman/
 - Youtube: https://www.youtube.com/@RylanTech
-- Twitter: https://twitter.com/RylanTech
