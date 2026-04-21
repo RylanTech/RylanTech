@@ -1,9 +1,9 @@
 # 👋 Hello there! I’m @RylanTech
 
 ## 👀 My skillset:
-- Cybersecurity
 - Computer Hardware
 - C++
+- Cybersecurity
 - Web:
   - Javascript & Typescript
   - HTML & CSS
@@ -15,7 +15,7 @@
   - mongoDB
 
 ## 🌱 I’m currently learning:
-- C++
+- C, C++
 - Linux Administration
 - Computer Networking
 
